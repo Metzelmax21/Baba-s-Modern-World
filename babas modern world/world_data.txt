@@ -1,0 +1,10 @@
+[levels]
+levelid=86
+rolling_levelid=1
+
+[general]
+start=1level
+author=Metzelmax
+name=baba's modern world
+firstlevel=19level
+
